@@ -13,7 +13,7 @@ Your feedback is welcome at https://github.com/SMPTE/st2120-1/issues or at [32nf
 
 ## Public Committee Draft (PCD) Notice
 
-The following elements are made available for a public review period ending no earlier than 2022-06-02, and no later than
+The following elements are made available for a public review period ending no earlier than 2022-07-01, and no later than
 2023-01-05:
 
 * [ST 2120-1](./32NF-PCD-ST-2120-1-TLX-Structure-2021-12-15.pdf)
