@@ -11,6 +11,7 @@ Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [CONFIDENTIALITY.md](./CONF
 
 Your feedback is welcome at https://github.com/SMPTE/st2120-1/issues or at [32nf-chair](mailto:32nf-chair@smpte.org).
 
+<!-- PCD-INFO:START -->
 ## Public Committee Draft (PCD) Notice
 
 The following elements are made available for a public review period ending no earlier than 2022-06-02, and no later than
@@ -30,3 +31,4 @@ better support downstream processes might make use of such items and attributes.
 
 TLX can provide a label for every media unit, and each label can be globally unique. The design of TLX overcomes the limitations
 most commonly encountered when using SMPTE ST 12 timecode.
+<!-- PCD-INFO:END -->
